@@ -1,0 +1,36 @@
+﻿ARAI OSES 360 — TEXTO DE APOIO DO PROTÓTIPO
+
+OBJETIVO
+Esta apresentação demonstra a proposta do Araioses 360 como uma plataforma digital dedicada ao município de Araioses. O protótipo reúne descoberta, conteúdo e serviços ligados ao território.
+
+PRINCÍPIOS
+- Araioses é o centro da experiência.
+- História, cultura, natureza e serviços locais se conectam.
+- A comunidade pode compartilhar fotos, vídeos, relatos e registros.
+- A experiência incentiva o turismo responsável e a valorização do patrimônio.
+- O protótipo é uma apresentação, não uma solução operacional definitiva.
+
+ÁREAS REPRESENTADAS
+Descubra: apresentação visual e caminhos para explorar.
+Atrativos: descoberta de lugares naturais, históricos e culturais.
+Passeios: apresentação de experiências e perfis locais.
+Onde comer e onde ficar: espaços conceituais para serviços locais.
+Mapa: camada futura para visualizar diferentes pontos.
+Conteúdo: temas para histórias, cultura, gastronomia e natureza.
+
+LIMITES DESTA DEMONSTRAÇÃO
+Os cartões e textos são exemplos de interface, não cadastros verificados. Busca e filtros funcionam localmente com o conteúdo incluído na página. Vídeos, mapa, reservas, pagamentos, avaliações e contato com prestadores dependem de dados e serviços que não fazem parte desta apresentação.
+
+PUBLICAÇÃO
+Coloque index.html e este arquivo em um repositório GitHub e habilite GitHub Pages para a branch e a pasta escolhidas. O site não exige servidor nem processo de compilação.
+
+
+PÁGINAS AUXILIARES
+index.html: apresentação inicial.
+atrativos.html: área de descoberta de lugares.
+passeios.html: passeios e experiências.
+comer.html: alimentação e gastronomia.
+ficar.html: hospedagem.
+mapa.html: área ilustrativa para o mapa futuro.
+projeto.html: resumo da proposta.
+site.js: navegação e interações compartilhadas das páginas auxiliares.
